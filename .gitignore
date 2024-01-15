@@ -24,4 +24,4 @@ dist-ssr
 *.sw?
 
 # Exclude the .env file from gitignore
-# .env
+.env
